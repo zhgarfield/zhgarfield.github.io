@@ -1,40 +1,26 @@
 ---
-permalink: /teaching/
+layout: archive
 title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+I am a dedicated and enthusiastic instructor and my teaching philosophy is grounded in my experience, interests, and passions. In the classroom I value adaptability to student needs, clear communication with consistent review, data driven insights, and a commitment to service and inclusion. My role as an instructor is to inspire students through my academic work and equip them to achieve their personal academic goals, within and beyond our classroom. 
 
+## Courses offered
+{% include base_path %}
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+{% assign teaching_groups = site.teaching | group_by: "venue" %}
+{% for group in teaching_groups reversed %}
+  <h3>{{ group.name }}</h3>
+  {% for post in group.items reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+## Mentoring and advising
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+I served as the External Examiner for Bashiru Salifu, who earned a Master of Philosophy in Indigenous Studies from the University of Tromsø (June 2020), with an *Excellent* rating for their thesis, *[Climate Change Impact and Traditional Coping Mechanisms of Borana Pastoralists in Southern Ethiopia](https://hdl.handle.net/10037/18690)*.
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+While a graduate student at WSU I voluntarily mentored three high-performing undergraduate students, initiating novel research projects with each based on their interests. 
+

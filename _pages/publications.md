@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+Select publications indexed here. Full publication history available on <a href="https://scholar.google.com/citations?hl=en&user=k5NnEvgAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  Full publication history is available at <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 {% endif %}
 
 {% include base_path %}
@@ -14,5 +14,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-<sup>*</sup> Equal authorship
