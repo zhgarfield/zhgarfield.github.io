@@ -6,6 +6,7 @@ excerpt: <blockquote>We found that improving collective actions, having expertis
 date: 2019-02-19
 venue: 'Human Nature'
 paperurl: 'https://doi.org/10.1007/s12110-019-09338-4'
+link: /files/garfield_et_al_2019_HN.pdf
 citation: 'Zachary H. Garfield, Robert H. Hubbard, and Edward H. Hagen. (2019). &quot;Evolutionary models of leadership: Tests and synthesis.&quot; <i>Human Nature</i>. 30(1).'
 ---
 This cross-cultural study tested three theoretical models of leadership against the ethnographic record. 
