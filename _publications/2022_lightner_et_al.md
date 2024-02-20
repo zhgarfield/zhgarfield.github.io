@@ -6,6 +6,6 @@ excerpt: <blockquote>Henrich's view of religions as distinct, formal social inst
 date: 2022-01-28
 venue: 'Religion, Brain & Behavior' 
 link: 'https://doi.org/10.1080/2153599X.2021.1991460'
-paperurl: 'files/lightner_et_al_2022.pdf'
+paperurl: '/files/lightner_et_al_2022.pdf'
 citation: 'Aaron D. Lightner, <b>Zachary H. Garfield</b> & Edward H. Hagen (2022). &quot;Religion: the WEIRDest concept in the world?&quot; <i>Religion, Brain & Behavior</i>. 12(3), 290-298.'
 ---

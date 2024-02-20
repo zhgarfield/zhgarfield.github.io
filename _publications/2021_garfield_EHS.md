@@ -6,7 +6,7 @@ excerpt: <blockquote>Interpersonal skills and fairness were the only leader qual
 date: 2021-08-31
 venue: 'Evolutionary Human Sciences'
 paperurl: 'https://doi.org/10.1017/ehs.2021.41'
-link: 'files/garfield_2021_EHS.pdf'
+link: '/files/garfield_2021_EHS.pdf'
 github: 'https://github.com/zhgarfield/leadershipdata'
 citation: 'Zachary H. Garfield (2021). &quot;Correlates of conflict resolution across cultures.&quot; <i>Evolutionary Human Sciences</i>. 3(E45).'
 ---
