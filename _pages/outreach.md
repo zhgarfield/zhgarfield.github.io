@@ -7,9 +7,13 @@ author_profile: true
 
 ## Authored
 
+[*Between Clans and Cattle: Third-party Peacemakers Among the Hamar Agro-pastoralists*](https://www.hbes.com/between_clans_and_cattle/) published in **The Newsletter of the Human Behavior and Evolution Society**, 01 April 2024
+
 [*Poutine contre Zelensky : deux leaderships opposés*](https://www.latribune.fr/opinions/tribunes/poutine-contre-zelensky-deux-leaderships-opposes-912420.html#Echobox=1648806473) published in **La Tribune**, 01 April 2022
 
 ## Featured
+
+Featured guest, *Monday Talk: Research Publication* podcast hosted by FGSES-UM6P. [Cross-societal variation in norm enforcement systems](https://soundcloud.com/fgses-um6p/cross-societal-variation-in-norm-enforcement-systems), 01 April 2024
 
 Featured guest, *Monday Talk: Research Publication* podcast hosted by FGSES-UM6P. [Interpersonal conflicts and third-party mediation in a pastoralist society](https://soundcloud.com/fgses-um6p/interpersonal-conflicts-and-third-party-mediation-in-a-pastoralist-society), 01 December 2023
 
