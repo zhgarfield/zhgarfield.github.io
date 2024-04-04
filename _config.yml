@@ -59,7 +59,7 @@ yandex_site_verification :
 mastodon:
   username               : "fediscience.org/@zhgarfield"
 twitter:
-  username               : @zhgarfield
+  username               : zhgarfield
 facebook:
   username               :
   app_id                 :
@@ -115,7 +115,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "zhgarfield"
   vine             :
   weibo            :
   xing             :
