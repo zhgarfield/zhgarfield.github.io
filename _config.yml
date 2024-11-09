@@ -60,6 +60,7 @@ mastodon:
   username               : "fediscience.org/@zhgarfield"
 twitter:
   username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -116,6 +117,7 @@ author:
   steam            :
   tumblr           :
   twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
