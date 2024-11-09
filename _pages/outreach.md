@@ -13,7 +13,7 @@ author_profile: true
 
 ## Featured
 
-Featured guest, *The Dissenter* podcast hosted Ricardo Lopes. [#950 Zachary Garfield: An Evolutionary Take on Leadership, Reputation, and Conflict Resolution](https://www.thedissenter.net/podcast/950-zachary-garfield-an-evolutionary-take-on-leadership-reputation-and-conflict-resolution/), 06 June 2024
+Featured guest, *The Dissenter* podcast hosted by Ricardo Lopes. [#950 Zachary Garfield: An Evolutionary Take on Leadership, Reputation, and Conflict Resolution](https://www.thedissenter.net/podcast/950-zachary-garfield-an-evolutionary-take-on-leadership-reputation-and-conflict-resolution/), 06 June 2024
 
 Featured guest, *Monday Talk: Research Publication* podcast hosted by FGSES-UM6P. [Cross-societal variation in norm enforcement systems](https://soundcloud.com/fgses-um6p/cross-societal-variation-in-norm-enforcement-systems), 01 April 2024
 
