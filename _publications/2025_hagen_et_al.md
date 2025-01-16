@@ -7,5 +7,5 @@ date: 2025-01-13
 venue: 'Evolution and Human Behavior'
 paperurl: '/files/hagen_et_al_2025.pdf'
 link: 'https://doi.org/10.1016/j.evolhumbehav.2024.106651'
-citation: 'Hagen, Edward, <b>Zachary H. Garfield</b>, Aaron D. Lightner (2025), &quot;Headmen, shamans, and mothers: Natural and sexual selection for computational services&quot, <i>Evolution and Human Behavior</i>'
+citation: 'Hagen, Edward, <b>Zachary H. Garfield</b>, Aaron D. Lightner (2025), &quot;Headmen, shamans, and mothers: Natural and sexual selection for computational services&quot; <i>Evolution and Human Behavior</i>'
 ---
