@@ -1,5 +1,5 @@
 ---
-title: "Legacy and constraint in the evolution of human culture"
+title: "Legacy and constraint in the evolution of human culture (Commentary)"
 collection: publications
 permalink: /publication/2025_garfield_EHB_comment
 excerpt: <blockquote>Kinship is culturally constructed. Leaders teach opaque norms for fitness-relevant reasons. Individuals often conform to social constraints. And innovations accumulate across generations, embedded in symbolic institutions.</blockquote>
