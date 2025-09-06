@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Authored
+[*Ecology of Minds* Blog](https://www.psychologytoday.com/us/blog/ecology-of-minds) published at **Psychology Today**, recurring.
 
 [*Between Clans and Cattle: Third-party Peacemakers Among the Hamar Agro-pastoralists*](https://www.hbes.com/between_clans_and_cattle/) published in **The Newsletter of the Human Behavior and Evolution Society**, 01 April 2024
 
