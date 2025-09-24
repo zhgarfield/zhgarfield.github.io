@@ -30,8 +30,9 @@ I have conducted ethnographic fieldwork in Southwest Ethiopia since 2015. I have
 
 
 Currently, my field research centers on [The Omo Valley Research Project](http://www.omovalleyresearchproject.org) (OVRP), which I co-direct with [Dr. Luke Glowacki](https://www.hsb-lab.org/people). Since 2019, the OVRP has conducted comparative and longitudinal, social, biological, and health research across multiple ethnolinguistic groups in Ethiopia’s Omo Valley, one of the most culturally diverse regions in the world. <img align="right" style="padding: 20px;" src="/images/OVRP-logo-Black-500px.png" width="420">
-<pre>
-</pre>
+<p>
+<br>
+</p>
 As an interdisciplinary non-profit scientific organization, OVRP focuses on 1) advancing research on cultural change and diversity in human social organization and behavior, and 2) facilitating education and philanthropic initiatives across Southwest Ethiopia.
 
 <img align="center" style="padding: 20px; right:100x;" src="/images/hamar_cow.jpg" width="750"/>
