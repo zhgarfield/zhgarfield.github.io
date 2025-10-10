@@ -10,7 +10,7 @@ date: 2025-10-08
 venue: 'Human Nature'
 paperurl: '/files/garfield_et_al_2025.pdf'
 link: 'https://doi.org/10.1007/s12110-025-09503-y'
-code: https://osf.io/zpbaj/
-github: https://github.com/zhgarfield/leadershipdata
+code: 'https://osf.io/zpbaj/'
+github: 'https://github.com/zhgarfield/leadershipdata'
 citation: 'Garfield, Zachary H., Christopher R. von Rueden2, & Edward H. Hagen (2025), &quot;The Multi-Capital Leadership Theory: An Integrative Framework for Human Leadership Diversity&quot; <i>Human Natuire</i>'
 ---
