@@ -24,9 +24,9 @@ Expert panel member, *Crossing Channels* podcast by **The Bennett Institute for 
 
 Featured guest, *Deeply Human* podcast hosted by Dessa Darling, of the BBC World Service. [Pulling rank, Season 2 Episode 8](https://www.bbc.co.uk/programmes/w3ct3hh1), 11 April 2022
 
-Guest scientist, *Here We Are* podcast hosted my Shane Mauss. [Episode 318: Anthropologists on Witchcraft](https://www.herewearepodcast.com/episodes/vonp2451io7kbli36gv1u031tus49y?rq=leadership), 12 December 2020
+Guest scientist, *Here We Are* podcast hosted by Shane Mauss. [Episode 318: Anthropologists on Witchcraft](https://www.herewearepodcast.com/episodes/vonp2451io7kbli36gv1u031tus49y?rq=leadership), 12 December 2020
 
-Guest scientist, *Here We Are* podcast hosted my Shane Mauss. [Episode 124: Suicide + Leadership](https://www.herewearepodcast.com/episodes/gwqm8j1utwfsxstkwm8my9192rii2u?rq=suicide), 31 May 2017
+Guest scientist, *Here We Are* podcast hosted by Shane Mauss. [Episode 124: Suicide + Leadership](https://www.herewearepodcast.com/episodes/gwqm8j1utwfsxstkwm8my9192rii2u?rq=suicide), 31 May 2017
 
 ## Covered
 
