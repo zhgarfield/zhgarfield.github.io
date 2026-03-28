@@ -1,5 +1,5 @@
 ---
-title: "Religion: the WEIRDest concept in the world?"
+title: "Religion: the WEIRDest concept in the world? (Commentary)"
 collection: publications
 permalink: /publication/2022_lightner_et_al
 excerpt: <blockquote>Henrich's view of religions as distinct, formal social institutions represents only some of the evidence on “religions” across cultures. Knowledge specialists who help clients are widespread in the ethnographic record. Their practical services can be misconstrued as religious rituals, and their abstract explanations as doctrinal beliefs in the supernatural..</blockquote>
