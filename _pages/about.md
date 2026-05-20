@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-Now is an extraordinary time to be a social scientist. As a species, we're crossing a major transition. We're witnessing the final stages of the agricultural and industrial revolutions unfolding in some of the most remote corners of the world. The subsistence lifestyle, where groups of families live together and cooperate to produce their own food, shaped who we are today. And it's rapidly disappearing.
+Now is an extraordinary time to be a social scientist. As a species, we're crossing a major transition. We're witnessing the final stages of the agricultural and industrial revolutions unfolding in some of the most remote corners of the world. The subsistence lifestyle, where groups of families live together and cooperate to produce their own food and govern themselves, shaped who we are today. And now it's rapidly disappearing.
 
 We have a narrow window to collect high-resolution empirical data among rural, subsistence-based communities. Data that can speak to some of our oldest questions about who we are. Alongside this work, we have an opportunity, and I'd argue an obligation, to serve as advocates for these communities as they navigate their changing worlds.
 
@@ -36,7 +36,7 @@ I write [*Ecology of Minds*](https://www.psychologytoday.com/us/blog/ecology-of-
 
 ## Research
 
-I study the mechanisms of sociality that underpin human uniqueness and how cooperation is organized and sustained in human societies. The work runs along four connected threads: *leadership and coordination*, *norms and cultural transmission*, *social networks and risk buffering*, and *social position and health*. I work at three scales: long-term ethnographic fieldwork in southwest Ethiopia, comparative analysis using global ethnographic databases, and computational modeling.
+I study the mechanisms of sociality that underpin human uniqueness and how cooperation is organized and sustained in human societies. The work is based on four connected threads: *leadership and coordination*, *norms and cultural transmission*, *social networks and risk buffering*, and *social position and health*. I work at three scales: long-term ethnographic fieldwork in southwest Ethiopia, comparative analysis using global ethnographic databases, and computational modeling.
 
 For the long story, check out the [research](/research/), [fieldwork](/fieldwork/), and [scientific philosophy](/philosophy/) pages.
 
